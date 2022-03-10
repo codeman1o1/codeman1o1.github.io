@@ -8,4 +8,4 @@ Welcome to C-site!
 
 ## My projects
 
-* [ABC formula](assets/files/abc-formula.exe)
+* [ABC formula solver](assets/files/abc-formula_solver.exe)
